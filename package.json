@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-switch": "^6.0.0",
+    "styled-components": "^5.3.0"
+  }
+}

@@ -1,0 +1,7 @@
+Comandos usados no projeto themeswicther
+
+1- create-react-app themeswitcher --template=typescript
+2 - yarn add styled-components
+3 - yarn add react-switch
+4 - yarn add @types/styled-components -D
+5 - yarn add polished
