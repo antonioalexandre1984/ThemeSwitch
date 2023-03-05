@@ -5,3 +5,12 @@ Comandos usados no projeto themeswicther
 3 - yarn add react-switch
 4 - yarn add @types/styled-components -D
 5 - yarn add polished
+
+
+No GitHub
+
+git init
+git add .
+git commit -m "Mensagem"
+git remote add origem-github https://github.com/antonioalexandre1984/Rocketseat-ThemeSwicther
+git git push origem-github master
